@@ -1,4 +1,4 @@
-module gitlab.com/andrdru/migrate
+module github.com/andrdru/migrate
 
 go 1.15
 
